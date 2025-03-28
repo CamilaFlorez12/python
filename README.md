@@ -31,7 +31,7 @@ Enter number:
 45
 ```
 
-## Autores ✒️
+## Auhors ✒️
 
 _Camila Florez_
 
@@ -39,6 +39,6 @@ _Camila Florez_
 
 
 
-## Licencia 📄
+## License 📄
 
 [https://github.com/CamilaFlorez12](https://github.com/CamilaFlorez12/python)
