@@ -1,30 +1,24 @@
-from lista import primos
-def num_primos():
-    num_primo=input("Ingrese un numero")
-    primo=num1%2==0
-    if primo==False:
-        primo=primos.append(num_primo)
-    else:
-        print("No es un numero primo")
+def num_primos(n):
+    if n < 2:
+        return False
+    for i in range(2,n):
+            if n % i == 0:
+                return False
+    return True
     
-        
+def pares_primos(limite):
+    primos_gemelos=[]
+    for num in range(2,limite -1):
+        if num_primos(num) and num_primos(num+2):
+            primos_gemelos.append((num, num +2))
+    return primos_gemelos
+    
+def es_palindromo(n):
+    return str(n) == str(n)[::-1]
 
-
-def pares_primos():
-    num1=int(input("Ingrese un numero"))
-    num=num1+2
-    if num1 in primos:
-        limite=num1+2
-        for num1 in range(num1,limite,2):
-            num=num1+2
-            print(num)
-    return num
-    
-    
-def palindromicos_primos():
-    num1=input("Ingrese un numero")
-    if num1 in primos:
-        for num1 in range[10]:
-            palindromo= num1 in [-1]==num1 in [1]
-            print(palindromo)
-    return 
+def palindromicos_primos(limite):
+    primos_palin=[]
+    for num in range(10,limite):
+        if num_primos(num) and es_palindromo(num):
+            primos_palin.append(num)
+    return primos_palin
