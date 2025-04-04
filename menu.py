@@ -12,7 +12,7 @@ Bienvenido al menu de pares primos
 """
 menu_pares_palindromos="""
 Bienvenido al menu de primos palindromos
-1.Verificar si es palindromo
+1.Ver primos palindromos
 2.Salir
 """
 
@@ -40,11 +40,7 @@ def menu_palindromos():
         print(menu_pares_palindromos)
         opc=mostrar_opc()
         if opc=="1":
-            num=int(input("Ingrese un numero:"))
-            if es_palindromo(num):
-                print(f"{num} es palindromo")
-            else:
-                print(f"{num} no es un palindromo")
+            palindromicos_primos()
                             
         elif opc=="2":
             input("Enter Pass........")

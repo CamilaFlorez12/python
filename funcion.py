@@ -16,9 +16,14 @@ def pares_primos(limite):
 def es_palindromo(n):
     return str(n) == str(n)[::-1]
 
-def palindromicos_primos(limite):
+def palindromicos_primos():
+    limite=int(input("Ingrese el limite:"))
     primos_palin=[]
-    for num in range(10,limite):
-        if num_primos(num) and es_palindromo(num):
+    for num in range(2,limite -1):
+        if num_primos(num):
             primos_palin.append(num)
-    return primos_palin
+    for palindromo in primos_palin:
+      if palindromo > 10 :
+        if str(palindromo) == str(palindromo)[::-1]:
+            print(palindromo)
+
