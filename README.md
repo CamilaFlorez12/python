@@ -2,8 +2,8 @@
 
 Th project displays consecutive pairs of the number entered by the user and polyndrome numbers 
 ## 📚Table of contents
-1. [Description](#project-description)
-2. [Utility](Utility)
+1. [Description](📄Project-description)
+2. [Utility](🛠️-Utility)
 3. [Technologies used](Technologies-used)
 4. [Example of use](Example-of-Use)
 5. [How to Run](How-to-Run)
