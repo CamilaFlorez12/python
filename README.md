@@ -1,14 +1,15 @@
 # 🔢Prime numbers and polytndromes
 
 Th project displays consecutive pairs of the number entered by the user and polyndrome numbers 
-## 📚Table of contents
-1. [Description](Projectdescription)
-2. [Utility](🛠️-Utility)
-3. [Technologies used](Technologies-used)
-4. [Example of use](Example-of-Use)
-5. [How to Run](How-to-Run)
-6. [Authors](Authors)
-7. [Repository link](Repository)
+## 📚 Table of Contents
+1. [Description](#project-description)
+2. [Utility](#utility)
+3. [Technologies used](#technologies-used)
+4. [Example of use](#example-of-use)
+5. [How to Run](#how-to-run)
+6. [Authors](#authors)
+7. [Repository link](#repository)
+
 
 ## About 
 
