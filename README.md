@@ -1,19 +1,10 @@
 # 🔢Prime numbers and polytndromes
 
 Th project displays consecutive pairs of the number entered by the user and polyndrome numbers 
-## 📚 Table of Contents
-1. [Description](#project-description)
-2. [Utility](#utility)
-3. [Technologies used](#technologies-used)
-4. [Example of use](#example-of-use)
-5. [How to Run](#how-to-run)
-6. [Authors](#authors)
-7. [Repository link](#repository)
-
 
 ## About 
 
-## 📄Project description
+## 📄Project Description
 
 ```
 Firs it will validate if the number is in prime numbers
@@ -26,7 +17,7 @@ Fourth it will print polyndrome numbers
 ```
 To Know prime numbers consecutives and polyndrame numbers 
 ```
-## 🧰 Technologies used
+## 🧰 Technologies Used
 
 - **Python 3**    
 - **Modular programming structure**  
@@ -46,7 +37,7 @@ git clone https://github.com/CamilaFlorez12/python
 
 python main.py
 ⚠️ Make sure you have Python installed on your system.
-## Auhors ✒️
+## Authors ✒️
 
 _Camila Florez_
 
@@ -54,6 +45,6 @@ _Camila Florez_
 
 
 
-## 🔗 Repository
+## 🔗 Repository Link
 This project is available under the following repository:
 https://github.com/CamilaFlorez12/python
