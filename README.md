@@ -40,7 +40,7 @@ Enter number:
 ### 🚀 How to Run
 1.Clone the repository:
 
-git clone https://github.com/CamilaFlorez12/proyectoCamila.git
+git clone https://github.com/CamilaFlorez12/python
 2.Run the main Python script:
 
 python main.py
@@ -55,4 +55,4 @@ _Camila Florez_
 
 ## 🔗 Repository
 This project is available under the following repository:
-https://github.com/CamilaFlorez12/proyectoCamila
+https://github.com/CamilaFlorez12/python
